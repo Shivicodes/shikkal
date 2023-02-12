@@ -1,11 +1,66 @@
-<p>education works!</p>
-<h3>fggb vc jhncdbnyhtgvfrcdhytgrfdhytgftbgbvfcdtbhgvftgyvrfcdtgvvfrthybgvftgbvftgbvftbg
-    tgbhyt
-    tbhg
-    tgtgbtgtgvvg
-    vgr
-    tvg
-    vf
-    f
+<div class="container">
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/positive-thinking/art-20043950"><small>Describing my overlaying ways to achive destination</small>
     
-</h3>
+      </a>
+      
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+        aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    
+    </nav>  
+    <div class="jumbotron">
+      <h1 class="display-4">Education Details</h1>
+      <p class="lead">
+       <strong>“Education is the key to unlocking the world, a passport to freedom.-”</strong><i>Oprah Winfrey </i>
+      </p>
+      <hr class="my-4">
+      <hr class="my-4">
+    </div>
+  
+    <div class="container">
+        <div *ngFor="let item of data" class="card">
+            
+    
+            <img class="card-img-top" src="{{item.urlToImage}}">
+            <div class="card-body">
+                <h5 class="card-title">
+                    {{item.title}}
+
+
+           
+
+                </h5>
+               
+                <div class="card-text" >
+                    
+                    <h4>Degree: </h4><h6>{{item.degree}}</h6>
+                    
+                    <h4>Institute Name: </h4><h6>{{item.title}}</h6>
+                    <div ><h4 >Board: </h4><h6>{{item.Board}}</h6></div>
+                    <h4>Percentile</h4><h6>{{item.Percentile}}</h6>
+                    <h4>Year: </h4><h6>{{item.year}}</h6>
+                    <h4>MajorSubjects: </h4><h6>{{item.majorSubjects}}</h6>
+                    <h4>ExtraSubject: </h4><h6>{{item.extraSubject}}</h6>
+                    <h4>Description: </h4><h6>{{item.description}}</h6>
+                    <h4>Further Details: </h4><h6>{{item.url}}</h6>
+                    <a href="{{item.url}}" large>Read full article</a>
+                    </div>
+
+
+ 
+
+                    
+                   
+                   
+           
+                
+                
+            </div>
+    
+        </div>
+    </div>
+  
+  </div>

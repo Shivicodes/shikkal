@@ -1,0 +1,62 @@
+{
+    "status": "ok",
+    "totalResults": 1381,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Schooling"
+            },
+            "degree":"Class 10th Board Certification",
+            "author": "Pramila Ignatio",
+            "title": "Mercy Memorial School",
+            "Board":"ICSE",
+            "Percentile":"90%",
+            "extraSubject":"Music",
+            "year":"2015-16",
+            "urlToImage":"https://www.mercymemorialschool.com/assets/media/about/670x350/1.jpg",
+            "description": "Successfully completed my 10th Board Certification with 90% percentage grading system.",
+            "url": "https://www.mercymemorialschool.com/"
+            
+            
+            
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "boards"
+            },
+            "degree":"Class 12th Board Certification",
+            "author": "Pramila Ignatio",
+            "title": "Mercy Memorial School",
+            "Board":"ICSE",
+            "Percentile":"72%",
+            "urlToImage":"https://www.mercymemorialschool.com/assets/media/about/670x350/1.jpg",
+            "year":"2017-18",
+            "majorSubjects":"Computers,Physics,Maths,Chemistry",
+            "extraSubject":"Music",
+            "description": "Successfully completed my 12th Board Certification with 72% percentage grading system.",
+            "url": "https://www.mercymemorialschool.com/"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lever.co"
+            },
+            "degree":"B-tech Graduate ",
+            "author": "Pranveer Singh",
+            "title": "Pranveer Singh Institute Of Technology, Kanpur",
+            "Board":"AICTE Approved",
+            "extraSubject":"certification of udemy AND coursera",
+            
+            "year":"2018-22",
+            "Percentile":"92%",
+            "majorSubjects":"Computer Science",
+            "urlToImage":"https://cache.careers360.mobi/media/colleges/social-media/media-gallery/5288/2018/9/20/Campus%20View%20of%20PSIT%20College%20of%20Engineering%20Kanpur_Campus-View.jpg",
+           
+            "description": "Successfully completed my Graduation in Bachelor of Computer Science and secured 92% percentage ",
+            "url": "https://www.psit.ac.in/academics/btech"
+        }
+      
+    ]
+}

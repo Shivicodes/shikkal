@@ -38,7 +38,7 @@
                     <div class="form-group">
                         <label for="email" i18n="contact@@email">Email:</label>
                         <input [class.is-invalid]="senderEmail.invalid && senderEmail.touched"
-                            type="email" name="email" i18n-placeholder="contact@@emailPlaceholder" placeholder="mark@gmail.com" formControlName="email" required>
+                            type="email" name="email" i18n-placeholder="contact@@emailPlaceholder" placeholder="jyotirmai2907@gmail.com" formControlName="email" required>
                         <div class="warnings" *ngIf="(senderEmail.invalid && senderEmail.touched) || senderEmail.dirty">
                             <!--question mark(?) is a safe navigation operator-->
                             <small *ngIf="senderEmail.errors?.required" class="text-danger" i18n="contact@@requiredEmailError">The email is required.</small>
@@ -48,13 +48,13 @@
                     <div class="form-group">
                         <label for="message" i18n="contact@@message">Your message:</label>
                         <textarea [class.is-invalid]="senderMessage.invalid && senderMessage.touched"
-                            name="message" i18n-placeholder="contact@@messagePlaceholder" placeholder="Write here your message... I will reply to you soon." formControlName="message" required></textarea>
+                            name="message" i18n-placeholder="contact@@messagePlaceholder" placeholder="Please put your opinion here!!!" formControlName="message" required></textarea>
                         <div class="warnings" *ngIf="(senderMessage.invalid && senderMessage.touched) || senderMessage.dirty">
                             <!--question mark(?) is a safe navigation operator-->
                             <small *ngIf="senderMessage.errors?.required" class="text-danger" i18n="contact@@requiredMessageError">The message is required.</small>
                         </div>
                     </div>
-                    <input type="submit" i18n-value="contact@@send" value="Send">                
+                    <input type="submit" i18n-value="contact@@send" value="Blink me">                
                 </form>
             </div>
         </div>

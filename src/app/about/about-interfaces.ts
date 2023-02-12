@@ -1,5 +1,6 @@
 export interface IAbout {
-    internationalizations: IAboutInternationalization[];
+    internationalizations:{language:"EN",
+    description:"To be an integral part of IT industry in an ever learning manner and to utilize my skills progressively to help my growth as well as that of organization"};
     medias?: IAboutMedia[];
     hobbies?: IAboutHobby[];
 }

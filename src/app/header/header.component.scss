@@ -116,6 +116,26 @@ header {
             }
         }
     }
+    .reminderdiv{
+        animation: float-dialog 6s ease-in-out infinite;
+       
+    /* transition: 2s ease-out; */
+    transition: all;
+   
+    transform: rotate(45deg);
+    top: 20e;
+    margin-top: 3em;
+    width: 99px;
+    height: -37px; /* padding: 67px 20px; */
+    border: 1px solid red;
+   
+    border-radius: 27px;
+    text-align: center;
+
+        
+        
+      }
+    
 
     .child.navbar-toggle {
         flex-grow: 1;

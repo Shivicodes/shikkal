@@ -18,18 +18,19 @@
             <li><a (click)="resetMenu()" href="#contact" i18n="nav@@contact" itemprop="url"><span itemprop="name">Contact</span></a></li>
             
             <!-- TODO: update here -->
-            <li><a (click)="resetMenu()" href="assets/cv-english-guilherme-bastos-v2.0.pdf" i18n-title="nav@@open.as.pdf" title="Open Resume as PDF" target="_blank"><fa-icon [icon]="faCloudDownloadAlt" class="bar-icon"></fa-icon></a></li>
+            <li><a (click)="resetMenu()" href="assets/JyotirmaiTiwari2023.pdf" i18n-title="nav@@open.as.pdf" title="Open Resume as PDF" target="_blank"><fa-icon [icon]="faCloudDownloadAlt" class="bar-icon"></fa-icon></a></li>
         </ul>
     </div>
+    <div class="reminderdiv" style="margin-top: 3em;width: 99px;height: -37px;border: 3px solid red;border-radius: 27px;text-align: center;"><strong>Please Click <br> On DownLoad Icon!!!</strong></div>
 
     <div class="child language-container">
         <div class="frame">
             <ul>
                 <li itemprop="availableLanguage" itemscope itemtype="https://schema.org/Language">
-                    <a href="/en/index.html" [ngClass]="{'active': locale === 'en'}" itemprop="name">Liked</a>
+                    <a href="/en/index.html" [ngClass]="{'active': locale === 'en'}" itemprop="name">en</a>
                 </li>
                 <li itemprop="availableLanguage" itemscope itemtype="https://schema.org/Language">
-                    <a href="/pt/index.html" [ngClass]="{'active': locale === 'pt'}" itemprop="name">DisLiked</a>
+                    <a href="/pt/index.html" [ngClass]="{'active': locale === 'pt'}" itemprop="name">hi</a>
                 </li>
             </ul>
         </div>
