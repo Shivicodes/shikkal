@@ -1,0 +1,407 @@
+[{
+    "id": 1,
+    "position": 1,
+    "startAt": "2022-01-27",
+    "endAt": "2023-01-27",
+    "companyName": "SHL India Private Limited.",
+    "website": "https://www.shl.com/about/",
+
+    "logo": "assets/shlLogo.png",
+    "internationalizations": [
+        {
+            "language": "pt",
+            "city": "Uberaba",
+            "country": "Brasil",
+            "role": "Estágio Webmaster",
+            "description": "A <b>Fácil Tecnologias LTDA</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
+        },
+        {
+            "language": "en",
+            "city": "Uberaba",
+            "country": "Brazil",
+            "role": "Webmaster intern",
+            "description": "<b>Fácil Tecnologias LTDA</b> is a company focused in solutions for education, its main product is a set of solutions for studying for getting the <i>driver license</i>, among them, there are multimedia, online applications, mobile apps, books, and others.<br><br>At <i>Fácil Tecnologias LTDA</i>, I got in touch with senior developers, learning best practices, patterns, and how to debate ideas and offer various solutions for the very same problem. It was the start point, a unique opportunity to turn theoretical knowledge into concrete solutions that were being used by hundreds of people every day."
+        }
+    ],
+    "technologies": [
+       "Angular", "React", "Python","HTML", "CSS", "Javascript", "jQuery" ,  "Spring Boot",  "MySQL","GitBash"
+    ],
+    "medias": [
+        {
+            "icon": "facebook",
+            "title": "Facebook Editora Nosso Trânsito",
+            "http": "https://www.facebook.com/editoranossotransito/"
+        }
+    ],
+    "backgroundUrl": "assets/landscape.jpg"
+},
+{
+    "id": 2,
+    "position": 1,
+    "startAt": "2022-01-27",
+    "endAt": "2023-01-27",
+    "companyName": "SHL India Private Limited.",
+    "website": "https://www.shl.com/about/",
+
+    "logo": "assets/shlLogo.png",
+    "internationalizations": [
+        {
+            "language": "pt",
+            "city": "Uberaba",
+            "country": "Brasil",
+            "role": "Estágio Webmaster",
+            "description": "A <b>Fácil Tecnologias LTDA</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
+        },
+        {
+            "language": "en",
+            "city": "Uberaba",
+            "country": "Brazil",
+            "role": "Webmaster intern",
+            "description": "<b>Fácil Tecnologias LTDA</b> is a company focused in solutions for education, its main product is a set of solutions for studying for getting the <i>driver license</i>, among them, there are multimedia, online applications, mobile apps, books, and others.<br><br>At <i>Fácil Tecnologias LTDA</i>, I got in touch with senior developers, learning best practices, patterns, and how to debate ideas and offer various solutions for the very same problem. It was the start point, a unique opportunity to turn theoretical knowledge into concrete solutions that were being used by hundreds of people every day."
+        }
+    ],
+    "technologies": [
+       "Angular", "React", "Python","HTML", "CSS", "Javascript", "jQuery" ,  "Spring Boot",  "MySQL","GitBash"
+    ],
+    "medias": [
+        {
+            "icon": "facebook",
+            "title": "Facebook Editora Nosso Trânsito",
+            "http": "https://www.facebook.com/editoranossotransito/"
+        }
+    ],
+    "backgroundUrl": "assets/landscape.jpg"
+},
+{
+    "id": 3,
+    "position": 1,
+    "startAt": "2022-01-27",
+    "endAt": "2023-01-27",
+    "companyName": "SHL India Private Limited.",
+    "website": "https://www.shl.com/about/",
+
+    "logo": "assets/shlLogo.png",
+    "internationalizations": [
+        {
+            "language": "pt",
+            "city": "Uberaba",
+            "country": "Brasil",
+            "role": "Estágio Webmaster",
+            "description": "A <b>Fácil Tecnologias LTDA</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
+        },
+        {
+            "language": "en",
+            "city": "Uberaba",
+            "country": "Brazil",
+            "role": "Webmaster intern",
+            "description": "<b>Fácil Tecnologias LTDA</b> is a company focused in solutions for education, its main product is a set of solutions for studying for getting the <i>driver license</i>, among them, there are multimedia, online applications, mobile apps, books, and others.<br><br>At <i>Fácil Tecnologias LTDA</i>, I got in touch with senior developers, learning best practices, patterns, and how to debate ideas and offer various solutions for the very same problem. It was the start point, a unique opportunity to turn theoretical knowledge into concrete solutions that were being used by hundreds of people every day."
+        }
+    ],
+    "technologies": [
+       "Angular", "React", "Python","HTML", "CSS", "Javascript", "jQuery" ,  "Spring Boot",  "MySQL","GitBash"
+    ],
+    "medias": [
+        {
+            "icon": "facebook",
+            "title": "Facebook Editora Nosso Trânsito",
+            "http": "https://www.facebook.com/editoranossotransito/"
+        }
+    ],
+    "backgroundUrl": "assets/landscape.jpg"
+},
+{
+    "id": 4,
+    "position": 1,
+    "startAt": "2022-01-27",
+    "endAt": "2023-01-27",
+    "companyName": "SHL India Private Limited.",
+    "website": "https://www.shl.com/about/",
+
+    "logo": "assets/shlLogo.png",
+    "internationalizations": [
+        {
+            "language": "pt",
+            "city": "Uberaba",
+            "country": "Brasil",
+            "role": "Estágio Webmaster",
+            "description": "A <b>Fácil Tecnologias LTDA</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
+        },
+        {
+            "language": "en",
+            "city": "Uberaba",
+            "country": "Brazil",
+            "role": "Webmaster intern",
+            "description": "<b>Fácil Tecnologias LTDA</b> is a company focused in solutions for education, its main product is a set of solutions for studying for getting the <i>driver license</i>, among them, there are multimedia, online applications, mobile apps, books, and others.<br><br>At <i>Fácil Tecnologias LTDA</i>, I got in touch with senior developers, learning best practices, patterns, and how to debate ideas and offer various solutions for the very same problem. It was the start point, a unique opportunity to turn theoretical knowledge into concrete solutions that were being used by hundreds of people every day."
+        }
+    ],
+    "technologies": [
+       "Angular", "React", "Python","HTML", "CSS", "Javascript", "jQuery" ,  "Spring Boot",  "MySQL","GitBash"
+    ],
+    "medias": [
+        {
+            "icon": "facebook",
+            "title": "Facebook Editora Nosso Trânsito",
+            "http": "https://www.facebook.com/editoranossotransito/"
+        }
+    ],
+    "backgroundUrl": "assets/landscape.jpg"
+},
+{
+    "id": 5,
+    "position": 1,
+    "startAt": "2022-01-27",
+    "endAt": "2023-01-27",
+    "companyName": "SHL India Private Limited.",
+    "website": "https://www.shl.com/about/",
+
+    "logo": "assets/shlLogo.png",
+    "internationalizations": [
+        {
+            "language": "pt",
+            "city": "Uberaba",
+            "country": "Brasil",
+            "role": "Estágio Webmaster",
+            "description": "A <b>Fácil Tecnologias LTDA</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
+        },
+        {
+            "language": "en",
+            "city": "Uberaba",
+            "country": "Brazil",
+            "role": "Webmaster intern",
+            "description": "<b>Fácil Tecnologias LTDA</b> is a company focused in solutions for education, its main product is a set of solutions for studying for getting the <i>driver license</i>, among them, there are multimedia, online applications, mobile apps, books, and others.<br><br>At <i>Fácil Tecnologias LTDA</i>, I got in touch with senior developers, learning best practices, patterns, and how to debate ideas and offer various solutions for the very same problem. It was the start point, a unique opportunity to turn theoretical knowledge into concrete solutions that were being used by hundreds of people every day."
+        }
+    ],
+    "technologies": [
+       "Angular", "React", "Python","HTML", "CSS", "Javascript", "jQuery" ,  "Spring Boot",  "MySQL","GitBash"
+    ],
+    "medias": [
+        {
+            "icon": "facebook",
+            "title": "Facebook Editora Nosso Trânsito",
+            "http": "https://www.facebook.com/editoranossotransito/"
+        }
+    ],
+    "backgroundUrl": "assets/landscape.jpg"
+},
+{
+    "id": 6,
+    "position": 1,
+    "startAt": "2022-01-27",
+    "endAt": "2023-01-27",
+    "companyName": "SHL India Private Limited.",
+    "website": "https://www.shl.com/about/",
+
+    "logo": "assets/shlLogo.png",
+    "internationalizations": [
+        {
+            "language": "pt",
+            "city": "Uberaba",
+            "country": "Brasil",
+            "role": "Estágio Webmaster",
+            "description": "A <b>Fácil Tecnologias LTDA</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
+        },
+        {
+            "language": "en",
+            "city": "Uberaba",
+            "country": "Brazil",
+            "role": "Webmaster intern",
+            "description": "<b>Fácil Tecnologias LTDA</b> is a company focused in solutions for education, its main product is a set of solutions for studying for getting the <i>driver license</i>, among them, there are multimedia, online applications, mobile apps, books, and others.<br><br>At <i>Fácil Tecnologias LTDA</i>, I got in touch with senior developers, learning best practices, patterns, and how to debate ideas and offer various solutions for the very same problem. It was the start point, a unique opportunity to turn theoretical knowledge into concrete solutions that were being used by hundreds of people every day."
+        }
+    ],
+    "technologies": [
+       "Angular", "React", "Python","HTML", "CSS", "Javascript", "jQuery" ,  "Spring Boot",  "MySQL","GitBash"
+    ],
+    "medias": [
+        {
+            "icon": "facebook",
+            "title": "Facebook Editora Nosso Trânsito",
+            "http": "https://www.facebook.com/editoranossotransito/"
+        }
+    ],
+    "backgroundUrl": "assets/landscape.jpg"
+},
+{
+    "id": 7,
+    "position": 1,
+    "startAt": "2022-01-27",
+    "endAt": "2023-01-27",
+    "companyName": "SHL India Private Limited.",
+    "website": "https://www.shl.com/about/",
+
+    "logo": "assets/shlLogo.png",
+    "internationalizations": [
+        {
+            "language": "pt",
+            "city": "Uberaba",
+            "country": "Brasil",
+            "role": "Estágio Webmaster",
+            "description": "A <b>Fácil Tecnologias LTDA</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
+        },
+        {
+            "language": "en",
+            "city": "Uberaba",
+            "country": "Brazil",
+            "role": "Webmaster intern",
+            "description": "<b>Fácil Tecnologias LTDA</b> is a company focused in solutions for education, its main product is a set of solutions for studying for getting the <i>driver license</i>, among them, there are multimedia, online applications, mobile apps, books, and others.<br><br>At <i>Fácil Tecnologias LTDA</i>, I got in touch with senior developers, learning best practices, patterns, and how to debate ideas and offer various solutions for the very same problem. It was the start point, a unique opportunity to turn theoretical knowledge into concrete solutions that were being used by hundreds of people every day."
+        }
+    ],
+    "technologies": [
+       "Angular", "React", "Python","HTML", "CSS", "Javascript", "jQuery" ,  "Spring Boot",  "MySQL","GitBash"
+    ],
+    "medias": [
+        {
+            "icon": "facebook",
+            "title": "Facebook Editora Nosso Trânsito",
+            "http": "https://www.facebook.com/editoranossotransito/"
+        }
+    ],
+    "backgroundUrl": "assets/landscape.jpg"
+},
+{
+    "id": 8,
+    "position": 1,
+    "startAt": "2022-01-27",
+    "endAt": "2023-01-27",
+    "companyName": "SHL India Private Limited.",
+    "website": "https://www.shl.com/about/",
+
+    "logo": "assets/shlLogo.png",
+    "internationalizations": [
+        {
+            "language": "pt",
+            "city": "Uberaba",
+            "country": "Brasil",
+            "role": "Estágio Webmaster",
+            "description": "A <b>Fácil Tecnologias LTDA</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
+        },
+        {
+            "language": "en",
+            "city": "Uberaba",
+            "country": "Brazil",
+            "role": "Webmaster intern",
+            "description": "<b>Fácil Tecnologias LTDA</b> is a company focused in solutions for education, its main product is a set of solutions for studying for getting the <i>driver license</i>, among them, there are multimedia, online applications, mobile apps, books, and others.<br><br>At <i>Fácil Tecnologias LTDA</i>, I got in touch with senior developers, learning best practices, patterns, and how to debate ideas and offer various solutions for the very same problem. It was the start point, a unique opportunity to turn theoretical knowledge into concrete solutions that were being used by hundreds of people every day."
+        }
+    ],
+    "technologies": [
+       "Angular", "React", "Python","HTML", "CSS", "Javascript", "jQuery" ,  "Spring Boot",  "MySQL","GitBash"
+    ],
+    "medias": [
+        {
+            "icon": "facebook",
+            "title": "Facebook Editora Nosso Trânsito",
+            "http": "https://www.facebook.com/editoranossotransito/"
+        }
+    ],
+    "backgroundUrl": "assets/landscape.jpg"
+},
+{
+    "id": 9,
+    "position": 1,
+    "startAt": "2022-01-27",
+    "endAt": "2023-01-27",
+    "companyName": "SHL India Private Limited.",
+    "website": "https://www.shl.com/about/",
+
+    "logo": "assets/shlLogo.png",
+    "internationalizations": [
+        {
+            "language": "pt",
+            "city": "Uberaba",
+            "country": "Brasil",
+            "role": "Estágio Webmaster",
+            "description": "A <b>Fácil Tecnologias LTDA</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
+        },
+        {
+            "language": "en",
+            "city": "Uberaba",
+            "country": "Brazil",
+            "role": "Webmaster intern",
+            "description": "<b>Fácil Tecnologias LTDA</b> is a company focused in solutions for education, its main product is a set of solutions for studying for getting the <i>driver license</i>, among them, there are multimedia, online applications, mobile apps, books, and others.<br><br>At <i>Fácil Tecnologias LTDA</i>, I got in touch with senior developers, learning best practices, patterns, and how to debate ideas and offer various solutions for the very same problem. It was the start point, a unique opportunity to turn theoretical knowledge into concrete solutions that were being used by hundreds of people every day."
+        }
+    ],
+    "technologies": [
+       "Angular", "React", "Python","HTML", "CSS", "Javascript", "jQuery" ,  "Spring Boot",  "MySQL","GitBash"
+    ],
+    "medias": [
+        {
+            "icon": "facebook",
+            "title": "Facebook Editora Nosso Trânsito",
+            "http": "https://www.facebook.com/editoranossotransito/"
+        }
+    ],
+    "backgroundUrl": "assets/landscape.jpg"
+},
+{
+    "id": 10,
+    "position": 1,
+    "startAt": "2022-01-27",
+    "endAt": "2023-01-27",
+    "companyName": "SHL India Private Limited.",
+    "website": "https://www.shl.com/about/",
+
+    "logo": "assets/shlLogo.png",
+    "internationalizations": [
+        {
+            "language": "pt",
+            "city": "Uberaba",
+            "country": "Brasil",
+            "role": "Estágio Webmaster",
+            "description": "A <b>Fácil Tecnologias LTDA</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
+        },
+        {
+            "language": "en",
+            "city": "Uberaba",
+            "country": "Brazil",
+            "role": "Webmaster intern",
+            "description": "<b>Fácil Tecnologias LTDA</b> is a company focused in solutions for education, its main product is a set of solutions for studying for getting the <i>driver license</i>, among them, there are multimedia, online applications, mobile apps, books, and others.<br><br>At <i>Fácil Tecnologias LTDA</i>, I got in touch with senior developers, learning best practices, patterns, and how to debate ideas and offer various solutions for the very same problem. It was the start point, a unique opportunity to turn theoretical knowledge into concrete solutions that were being used by hundreds of people every day."
+        }
+    ],
+    "technologies": [
+       "Angular", "React", "Python","HTML", "CSS", "Javascript", "jQuery" ,  "Spring Boot",  "MySQL","GitBash"
+    ],
+    "medias": [
+        {
+            "icon": "facebook",
+            "title": "Facebook Editora Nosso Trânsito",
+            "http": "https://www.facebook.com/editoranossotransito/"
+        }
+    ],
+    "backgroundUrl": "assets/landscape.jpg"
+},
+{
+    "id": 11,
+    "position": 1,
+    "startAt": "2022-01-27",
+    "endAt": "2023-01-27",
+    "companyName": "SHL India Private Limited.",
+    "website": "https://www.shl.com/about/",
+
+    "logo": "assets/shlLogo.png",
+    "internationalizations": [
+        {
+            "language": "pt",
+            "city": "Uberaba",
+            "country": "Brasil",
+            "role": "Estágio Webmaster",
+            "description": "A <b>Fácil Tecnologias LTDA</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
+        },
+        {
+            "language": "en",
+            "city": "Uberaba",
+            "country": "Brazil",
+            "role": "Webmaster intern",
+            "description": "<b>Fácil Tecnologias LTDA</b> is a company focused in solutions for education, its main product is a set of solutions for studying for getting the <i>driver license</i>, among them, there are multimedia, online applications, mobile apps, books, and others.<br><br>At <i>Fácil Tecnologias LTDA</i>, I got in touch with senior developers, learning best practices, patterns, and how to debate ideas and offer various solutions for the very same problem. It was the start point, a unique opportunity to turn theoretical knowledge into concrete solutions that were being used by hundreds of people every day."
+        }
+    ],
+    "technologies": [
+       "Angular", "React", "Python","HTML", "CSS", "Javascript", "jQuery" ,  "Spring Boot",  "MySQL","GitBash"
+    ],
+    "medias": [
+        {
+            "icon": "facebook",
+            "title": "Facebook Editora Nosso Trânsito",
+            "http": "https://www.facebook.com/editoranossotransito/"
+        }
+    ],
+    "backgroundUrl": "assets/landscape.jpg"
+}]
